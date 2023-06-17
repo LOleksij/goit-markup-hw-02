@@ -2,6 +2,7 @@
 body {
   font-family: Roboto, sans-serif;
   color: #434455;
+  background-color: #ffffff;
 }
 a {
 }
@@ -52,7 +53,8 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.header-address-link:hover {
+.header-address-link:hover,
+.header-address-link:focus {
   color: #404bbf;
 }
 /* Hero styles */
@@ -72,8 +74,9 @@ button {
   color: #ffffff;
   background-color: #4d5ae5;
 }
-.hero-btn:hover {
-  color: #404bbf;
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404bbf;
 }
 /* Description styles  */
 .description-item {
@@ -157,7 +160,8 @@ button {
   color: #4d5ae5;
   background-color: #f4f4fd;
 }
-.portfolio-btn:hover {
+.portfolio-btn:hover,
+.portfolio-btn:focus {
   color: #ffffff;
   background-color: #404bbf;
 }
