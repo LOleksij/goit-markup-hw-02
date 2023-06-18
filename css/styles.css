@@ -113,7 +113,7 @@ button {
   color: #2e2f42;
 }
 /* Team styles  */
-.team: {
+.team {
   background: #f4f4fd;
 }
 .team-title {
@@ -131,11 +131,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  background: #f4f4fd;
   color: #2e2f42;
-}
-.people {
-  background: #f4f4fd;
 }
 .team-list {
   font-weight: 400;
@@ -143,7 +139,6 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  background: #ffffff;
 }
 /* Footer styles */
 .section {
