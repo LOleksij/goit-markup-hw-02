@@ -4,8 +4,6 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-a {
-}
 /* Reset */
 .list,
 ul,
@@ -30,7 +28,6 @@ button {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: #2e2f42;
 }
 .header-logo-blu {
