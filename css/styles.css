@@ -167,6 +167,9 @@ button {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+.people {
+  background-color: #ffffff;
+}
 /* Portfolio style */
 .portfolio-btn {
   font-weight: 500;
