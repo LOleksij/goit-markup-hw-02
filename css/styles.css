@@ -139,7 +139,10 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  background: #ffffff;
+  background-color: #ffffff;
+}
+.team-item {
+  background-color: #ffffff;
 }
 /* Footer styles */
 .section {
