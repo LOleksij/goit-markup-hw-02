@@ -111,6 +111,7 @@ button {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  background: #ffffff;
 }
 .team-title-item {
   font-weight: 700;
@@ -119,7 +120,11 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  background: #f4f4fd;
   color: #2e2f42;
+}
+.team {
+  background: #f4f4fd;
 }
 .team-list {
   font-weight: 400;
@@ -127,6 +132,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background: #ffffff;
 }
 /* Footer styles */
 .section {
