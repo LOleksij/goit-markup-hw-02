@@ -5,10 +5,10 @@ body {
   background-color: #ffffff;
 }
 :root {
-  page-color: #ffffff;
-  logo-color: #4d5ae5;
-  hero-background: #2e2f42;
-  logo-background-light: #f4f4fd;
+  --page-color: #ffffff;
+  --logo-color: #4d5ae5;
+  --hero-background: #2e2f42;
+  --logo-background-light: #f4f4fd;
 }
 /* Reset */
 .list,
