@@ -139,6 +139,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  background: #ffffff;
 }
 /* Footer styles */
 .section {
@@ -166,9 +167,6 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
-.people {
-  background-color: #ffffff;
 }
 /* Portfolio style */
 .portfolio-btn {
