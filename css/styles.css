@@ -27,6 +27,9 @@ button {
   font-family: inherit;
   cursor: pointer;
 }
+.heder-address-list {
+  font-style: none;
+}
 /* Section styles */
 /* Header styles */
 .header-logo {
