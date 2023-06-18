@@ -140,6 +140,9 @@ button {
 /* Footer styles */
 .section {
 }
+.footer-logo {
+  list-style: none;
+}
 .footer {
   background-color: #2e2f42;
 }
