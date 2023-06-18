@@ -68,6 +68,9 @@ button {
   color: #404bbf;
 }
 /* Hero styles */
+.hero {
+  background: #2e2f42;
+}
 .hero-title {
   font-weight: 700;
   font-size: 56px;
