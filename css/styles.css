@@ -38,6 +38,8 @@ button {
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
   color: #2e2f42;
 }
 .header-logo-blu {
